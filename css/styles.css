@@ -1,0 +1,44 @@
+body{
+    margin-top: 70px;
+}
+
+.bg-empresa{
+    background-color: rgb(220, 67, 20);
+}
+
+.navbar{
+    padding-top: 0.2rem;
+    padding-bottom: 0.2rem;
+}
+
+#carousel-destaques{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.titulo{
+    border-bottom: 8px solid #777;
+    width: fit-content;
+    margin: 0 auto;
+}
+
+
+.carousel-caption{
+    background-color: rgba(0, 0, 0, 0.452);
+    width: 70%;
+    margin: 0 auto;
+}
+.carousel-caption h5, .carousel-caption p{
+    text-shadow: 2px 2px 0px #000;
+}
+
+#planos .card-header{
+    background-color: #555;
+    color: #fff;
+    padding: 18px;
+}
+
+.bg-header-cinza-claro{
+    background-color: #999 !important;
+}
+
