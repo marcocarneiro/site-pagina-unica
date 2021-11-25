@@ -6,3 +6,5 @@ site de página única utilizando HTML, CSS e JS
 - Bootstrap 5
 - AOS Animate
 - JQuery Lightbox
+
+Projeto utilizado nos cursos de HTML, CSS e JS.
