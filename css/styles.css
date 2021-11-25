@@ -42,3 +42,24 @@ body{
     background-color: #999 !important;
 }
 
+/* Seta sobe */
+#seta-sobe{
+    display: block;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    width: 46px;
+    height: 46px;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.514);
+    font-size: 28px;
+    text-align: center;
+    padding-top: 4px;
+    border-radius: 4px;
+}
+
+
+
+
+
+
